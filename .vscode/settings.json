@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "wsda_music",
+            "database": "${workspaceFolder:exercitii-sqlite}/baze_date/WSDA_Music.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}

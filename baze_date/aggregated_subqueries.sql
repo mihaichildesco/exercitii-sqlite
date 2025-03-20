@@ -12,3 +12,4 @@ GROUP BY
     BillingCity
 ORDER BY
     BillingCity
+
